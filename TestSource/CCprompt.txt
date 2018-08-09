@@ -1,1 +1,1 @@
-CC prompt selection screen
+Select from the below choices.
